@@ -1,5 +1,5 @@
 [project]
-name = "daiist-session2-env-check"
+name = "daiist-env-setup"
 version = "0.1.0"
 description = "Environment setup verification exercise"
 requires-python = ">=3.12,<3.13"

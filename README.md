@@ -44,8 +44,8 @@ uv --version
    under your GitHub account).
 2. Clone *your fork* (not this repo directly):
    ```bash
-   git clone https://github.com/<your-github-username>/DAIIST-session2-env-check.git
-   cd DAIIST-session2-env-check
+   git clone https://github.com/<your-github-username>/daiist-env-setup.git
+   cd daiist-env-setup
    ```
 
 ## 3. Set up the environment
