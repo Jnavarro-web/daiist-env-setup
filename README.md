@@ -80,8 +80,9 @@ whatever Python happens to be on your system already.
    cp exercise_template.py submissions/<your-github-username>/exercise.py
    ```
 2. Open `submissions/<your-github-username>/exercise.py` and fill in every
-   `TODO`. The data you're working with is in `data/sales.csv` (same data also
-   loaded into `data/course.db` as a SQLite `sales` table, for the SQL task).
+   `TODO`. The data you're working with is `data/sales.csv` — for the SQL task,
+   you'll load it into an in-memory SQLite table yourself with
+   `DataFrame.to_sql()`.
 3. Sanity-check your own output by just running the file:
    ```bash
    uv run python submissions/<your-github-username>/exercise.py

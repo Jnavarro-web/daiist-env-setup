@@ -76,12 +76,14 @@ def pandas_region_share(sales: pd.DataFrame) -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 # 3. SQL
 # ---------------------------------------------------------------------------
-def sql_revenue_by_region(db_path: Path) -> pd.DataFrame:
-    """Query course.db and return a DataFrame with columns ["region", "revenue"]
-    — the SQL equivalent of pandas_revenue_by_region(), computed with a SQL
-    GROUP BY query (not by loading the whole table and using pandas).
+def sql_revenue_by_region(csv_path: Path) -> pd.DataFrame:
+    """Load the sales data from `csv_path` into an in-memory SQLite table named
+    "sales", then return a DataFrame with columns ["region", "revenue"] — the
+    SQL equivalent of pandas_revenue_by_region(), computed with a SQL GROUP BY
+    query (not by loading the table and using pandas groupby).
     """
-    # TODO: open a sqlite3 connection, run a SELECT ... GROUP BY query,
+    # TODO: read the CSV into a DataFrame, write it into an in-memory sqlite3
+    # connection with DataFrame.to_sql(), then run a SELECT ... GROUP BY query
     # and return the result via pd.read_sql
     raise NotImplementedError
 
@@ -106,5 +108,5 @@ if __name__ == "__main__":
     print("Average order value:", numpy_average_order_value(quantities, unit_prices))
     print("\nRevenue by region:\n", pandas_revenue_by_region(sales))
     print("\nRegion share:\n", pandas_region_share(sales))
-    print("\nSQL revenue by region:\n", sql_revenue_by_region(DATA_DIR / "course.db"))
+    print("\nSQL revenue by region:\n", sql_revenue_by_region(DATA_DIR / "sales.csv"))
     print("\ntorch check (expect 6.0):", check_torch_installed())

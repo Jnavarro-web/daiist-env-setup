@@ -118,7 +118,7 @@ def test_pandas_region_share(submission, sales_df):
 
 
 def test_sql_revenue_by_region(submission, expected_revenue_by_region):
-    result = submission.sql_revenue_by_region(ROOT / "data" / "course.db")
+    result = submission.sql_revenue_by_region(ROOT / "data" / "sales.csv")
     result_sorted = result.sort_values("region").reset_index(drop=True)
     pd.testing.assert_frame_equal(
         result_sorted[["region", "revenue"]],
