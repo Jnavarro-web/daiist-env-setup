@@ -1,0 +1,121 @@
+order_id,region,product,category,quantity,unit_price,order_date
+1000,North,Widget,Hardware,5,12.5,2026-04-08
+1001,South,Support Plan,Services,2,40.0,2026-11-24
+1002,North,CRM Pro,Software,7,149.0,2026-01-01
+1003,North,Gadget,Hardware,4,24.0,2026-09-20
+1004,North,CRM Pro,Software,4,149.0,2026-12-21
+1005,West,Gadget,Hardware,8,24.0,2026-10-09
+1006,North,Onboarding Package,Services,3,250.0,2026-12-14
+1007,East,Sprocket,Hardware,3,5.75,2026-04-25
+1008,East,Widget,Hardware,2,12.5,2026-07-04
+1009,East,Onboarding Package,Services,6,250.0,2026-10-09
+1010,North,Support Plan,Services,8,40.0,2026-09-04
+1011,West,Widget,Hardware,9,12.5,2026-05-27
+1012,East,CRM Pro,Software,4,149.0,2026-12-03
+1013,North,Support Plan,Services,4,40.0,2026-05-03
+1014,South,Onboarding Package,Services,2,250.0,2026-07-09
+1015,West,Support Plan,Services,6,40.0,2026-03-12
+1016,East,Gadget,Hardware,5,24.0,2026-12-22
+1017,North,CRM Pro,Software,3,149.0,2026-09-24
+1018,South,Gadget,Hardware,8,24.0,2026-07-09
+1019,South,Support Plan,Services,6,40.0,2026-01-08
+1020,North,Onboarding Package,Services,6,250.0,2026-07-09
+1021,North,Gadget,Hardware,6,24.0,2026-04-21
+1022,West,Analytics Suite,Software,8,99.0,2026-03-09
+1023,South,Gadget,Hardware,9,24.0,2026-09-09
+1024,West,CRM Pro,Software,7,149.0,2026-06-08
+1025,South,CRM Pro,Software,8,149.0,2026-02-25
+1026,North,Onboarding Package,Services,2,250.0,2026-03-21
+1027,South,Onboarding Package,Services,7,250.0,2026-10-03
+1028,West,Analytics Suite,Software,8,99.0,2026-09-09
+1029,North,Support Plan,Services,2,40.0,2026-11-18
+1030,East,Onboarding Package,Services,6,250.0,2026-02-10
+1031,West,Gadget,Hardware,8,24.0,2026-01-24
+1032,East,CRM Pro,Software,3,149.0,2026-09-04
+1033,East,Onboarding Package,Services,9,250.0,2026-10-07
+1034,South,Sprocket,Hardware,3,5.75,2026-09-25
+1035,North,CRM Pro,Software,6,149.0,2026-08-01
+1036,North,Sprocket,Hardware,5,5.75,2026-04-02
+1037,South,CRM Pro,Software,2,149.0,2026-02-24
+1038,West,Onboarding Package,Services,2,250.0,2026-09-25
+1039,South,Gadget,Hardware,8,24.0,2026-09-06
+1040,East,CRM Pro,Software,7,149.0,2026-04-18
+1041,South,Support Plan,Services,5,40.0,2026-07-22
+1042,East,Analytics Suite,Software,9,99.0,2026-08-04
+1043,South,Gadget,Hardware,2,24.0,2026-06-01
+1044,South,CRM Pro,Software,4,149.0,2026-01-03
+1045,North,Gadget,Hardware,2,24.0,2026-01-28
+1046,East,Widget,Hardware,9,12.5,2026-04-09
+1047,West,Gadget,Hardware,9,24.0,2026-03-24
+1048,West,Gadget,Hardware,8,24.0,2026-07-07
+1049,North,Widget,Hardware,7,12.5,2026-06-14
+1050,West,Analytics Suite,Software,1,99.0,2026-11-21
+1051,North,Widget,Hardware,7,12.5,2026-12-11
+1052,North,Gadget,Hardware,4,24.0,2026-04-18
+1053,West,Gadget,Hardware,7,24.0,2026-03-09
+1054,West,Gadget,Hardware,2,24.0,2026-08-26
+1055,North,Widget,Hardware,9,12.5,2026-01-03
+1056,South,Gadget,Hardware,7,24.0,2026-08-16
+1057,South,Onboarding Package,Services,7,250.0,2026-01-06
+1058,West,Widget,Hardware,7,12.5,2026-05-26
+1059,West,Sprocket,Hardware,7,5.75,2026-12-24
+1060,West,Gadget,Hardware,4,24.0,2026-05-07
+1061,North,CRM Pro,Software,9,149.0,2026-01-24
+1062,East,Widget,Hardware,1,12.5,2026-10-16
+1063,South,Widget,Hardware,9,12.5,2026-02-28
+1064,South,Widget,Hardware,2,12.5,2026-11-28
+1065,South,Analytics Suite,Software,2,99.0,2026-10-08
+1066,North,CRM Pro,Software,2,149.0,2026-07-22
+1067,East,Sprocket,Hardware,4,5.75,2026-11-23
+1068,East,Gadget,Hardware,5,24.0,2026-07-05
+1069,East,Analytics Suite,Software,6,99.0,2026-02-01
+1070,West,CRM Pro,Software,2,149.0,2026-02-18
+1071,South,CRM Pro,Software,5,149.0,2026-03-12
+1072,North,Gadget,Hardware,6,24.0,2026-05-06
+1073,West,Onboarding Package,Services,9,250.0,2026-12-10
+1074,North,Support Plan,Services,9,40.0,2026-05-22
+1075,North,Gadget,Hardware,5,24.0,2026-02-04
+1076,South,Sprocket,Hardware,5,5.75,2026-10-07
+1077,East,Gadget,Hardware,5,24.0,2026-09-16
+1078,East,Onboarding Package,Services,1,250.0,2026-02-21
+1079,West,Onboarding Package,Services,5,250.0,2026-01-01
+1080,East,Onboarding Package,Services,3,250.0,2026-11-09
+1081,South,Support Plan,Services,8,40.0,2026-09-23
+1082,West,CRM Pro,Software,1,149.0,2026-02-03
+1083,South,CRM Pro,Software,1,149.0,2026-06-19
+1084,South,Analytics Suite,Software,3,99.0,2026-01-10
+1085,East,Onboarding Package,Services,1,250.0,2026-06-07
+1086,South,Support Plan,Services,2,40.0,2026-06-25
+1087,West,CRM Pro,Software,3,149.0,2026-04-28
+1088,South,Onboarding Package,Services,3,250.0,2026-07-01
+1089,South,Support Plan,Services,6,40.0,2026-07-26
+1090,South,Sprocket,Hardware,3,5.75,2026-12-04
+1091,West,Onboarding Package,Services,1,250.0,2026-08-08
+1092,South,Onboarding Package,Services,8,250.0,2026-06-10
+1093,South,Gadget,Hardware,1,24.0,2026-11-07
+1094,West,Sprocket,Hardware,5,5.75,2026-02-25
+1095,East,Sprocket,Hardware,9,5.75,2026-07-22
+1096,East,Widget,Hardware,2,12.5,2026-05-06
+1097,East,Widget,Hardware,2,12.5,2026-10-14
+1098,East,Support Plan,Services,6,40.0,2026-07-20
+1099,North,Analytics Suite,Software,4,99.0,2026-05-02
+1100,West,Widget,Hardware,9,12.5,2026-09-22
+1101,South,Sprocket,Hardware,7,5.75,2026-02-22
+1102,East,CRM Pro,Software,6,149.0,2026-11-28
+1103,North,Support Plan,Services,5,40.0,2026-09-10
+1104,West,Sprocket,Hardware,7,5.75,2026-12-10
+1105,South,Gadget,Hardware,7,24.0,2026-11-13
+1106,South,CRM Pro,Software,5,149.0,2026-07-18
+1107,North,Sprocket,Hardware,5,5.75,2026-04-14
+1108,East,Analytics Suite,Software,8,99.0,2026-08-22
+1109,South,CRM Pro,Software,8,149.0,2026-12-06
+1110,North,Sprocket,Hardware,9,5.75,2026-11-21
+1111,East,Widget,Hardware,4,12.5,2026-11-10
+1112,South,Onboarding Package,Services,4,250.0,2026-03-01
+1113,North,Gadget,Hardware,8,24.0,2026-10-28
+1114,North,Analytics Suite,Software,7,99.0,2026-11-19
+1115,South,Support Plan,Services,7,40.0,2026-08-13
+1116,South,Gadget,Hardware,1,24.0,2026-02-25
+1117,West,Gadget,Hardware,3,24.0,2026-12-17
+1118,West,Widget,Hardware,9,12.5,2026-04-28
+1119,North,Analytics Suite,Software,3,99.0,2026-08-22
