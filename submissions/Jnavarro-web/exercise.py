@@ -1,5 +1,5 @@
 """
-Environment setup verification exercise.
+Environment setup verification exercise
 
 Fill in every TODO below. Do not rename functions, change their signatures, or
 remove imports — the autograder calls these functions directly by name.
